@@ -6,9 +6,9 @@ This project's goal is to practice web scraping &amp; Python, and was inspired f
 
 (Python, BeautifulSoup, urllib, regex)
 
-Scraped to:
+Scraped to Excel:
 
-![image](https://user-images.githubusercontent.com/59063950/92181870-486dc280-ee18-11ea-9635-8ffa077b61bb.png)
+![image](https://user-images.githubusercontent.com/59063950/92182267-47896080-ee19-11ea-9790-a1e80c4fb378.png)
 
 Running code in console:
 
