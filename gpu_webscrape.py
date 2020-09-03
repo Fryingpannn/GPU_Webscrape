@@ -68,7 +68,7 @@ for container in containers:
 	print("cleaned_price_str: --- " + cleaned_price_str)
 
 	# write to csv file: the product names/prices have commas in them which must be replaced, otherwise they'll be a new column in csv
-	f.write(product_brand + "," + product_name.replace(",", "|") + "," + cleaned_price_str.replace(",", ".") + "," + product_shipping + "\n")
+	f.write(product_brand + "," + product_name.replace(",", "|") + "," + cleaned_price_str.replace(",", "") + "," + product_shipping + "\n")
 
 # close file
 f.close()
