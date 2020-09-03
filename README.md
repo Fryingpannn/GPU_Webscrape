@@ -1,10 +1,10 @@
 # GPU Data Web Scraper
 
-Script that web scrapes graphic card data from NewEgg to an Excel file to analyze prices.
+##  Script that web scrapes graphic card data from NewEgg to an Excel file to analyze prices.
 
-This project's goal is to practice web scraping &amp; Python, and was inspired from the newly announced RTX 3000 series GPUs from Nvidia.
+## This project's goal is to practice web scraping &amp; Python, and was inspired from the newly announced RTX 3000 series GPUs from Nvidia.
 
-(Python, BeautifulSoup, urllib, regex)
+> (Python, BeautifulSoup, urllib, regex)
 
 Scraped to Excel:
 
