@@ -6,6 +6,8 @@
 
 > (Python, BeautifulSoup, urllib, regex)
 
+*There are a lot of comments in the code file as they are review notes for myself.
+
 Scraped to Excel:
 
 ![image](https://user-images.githubusercontent.com/59063950/92182267-47896080-ee19-11ea-9790-a1e80c4fb378.png)
